@@ -6,6 +6,6 @@ Projeto do curso.dev: Implementação do <https://www.tabnews.com.br>
 
 `npm run dev`
 
-## Executar test
+## Executar teste
 
 `npm test`
