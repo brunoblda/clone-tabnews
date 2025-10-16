@@ -8,4 +8,6 @@ Projeto do curso.dev: Implementação do <https://www.tabnews.com.br>
 
 ## Executar teste
 
-`npm test`
+`npm run test`
+
+`npm run test:watch`
