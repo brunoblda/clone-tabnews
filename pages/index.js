@@ -1,4 +1,4 @@
-import { SpeedInsights } from '@vercel/speed-insights/next';
+import { SpeedInsights } from "@vercel/speed-insights/next";
 
 function Home() {
   return (
